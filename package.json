@@ -1,0 +1,7 @@
+{
+    "name": "discord-bot-boiler-plate",
+    "main": "bot.js",
+    "dependencies": {
+        "discord.js": "^14.10.2"
+    }
+}
